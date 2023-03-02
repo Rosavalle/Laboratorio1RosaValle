@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\bin\Debug\net6.0\LABORATORIO.exe
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\bin\Debug\net6.0\LABORATORIO.deps.json
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\bin\Debug\net6.0\LABORATORIO.runtimeconfig.json
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\bin\Debug\net6.0\LABORATORIO.dll
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\bin\Debug\net6.0\LABORATORIO.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\obj\Debug\net6.0\LABORATORIO.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\obj\Debug\net6.0\LABORATORIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\obj\Debug\net6.0\LABORATORIO.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\obj\Debug\net6.0\LABORATORIO.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\obj\Debug\net6.0\LABORATORIO.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\obj\Debug\net6.0\LABORATORIO.dll
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\obj\Debug\net6.0\refint\LABORATORIO.dll
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\obj\Debug\net6.0\LABORATORIO.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\obj\Debug\net6.0\LABORATORIO.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Documents\GitHub\Laboratorio1RosaValle\LABORATORIO\obj\Debug\net6.0\ref\LABORATORIO.dll
